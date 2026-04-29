@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kompas3d": {
+      "command": "C:\\Projects\\mcp kompas\\McpServer\\bin\\Release\\net8.0-windows\\publish\\McpKompas.exe",
+      "args": []
+    },
+    "kompas3d-remote": {
+      "url": "http://KOMPAS_MACHINE_IP:3001/mcp"
+    }
+  }
+}

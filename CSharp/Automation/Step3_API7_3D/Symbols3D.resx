@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="ResMimeType">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="Version">
+    <value>1.0.0.0</value>
+  </resheader>
+  <resheader name="Reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="Writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="IDS_LIBNAME">
+    <value>Обозначения 3D</value>
+  </data>
+  <data name="IDS_OBJ">
+    <value>Укажите опорный объект</value>
+  </data>
+  <data name="IDS_POINT">
+    <value>Укажите точку привязки</value>
+  </data>
+  <data name="IDS_ROUGH">
+    <value>Шероховатость: пример </value>
+  </data>
+  <data name="IDS_EDIT">
+    <value>Объект создан. Редактировать?</value>
+  </data>
+  <data name="IDS_NOCREATE">
+    <value>Объект не создан</value>
+  </data>
+  <data name="IDS_BASE">
+    <value>База: пример </value>
+  </data>
+  <data name="IDS_BEGINBRANCH">
+    <value>Укажите точку начала ответвления</value>
+  </data>
+  <data name="IDS_POSOBJ">
+    <value>Укажите положение плоскости обозначения</value>
+  </data>
+  <data name="IDS_BEGINSHELF">
+    <value>Укажите точку начала полки</value>
+  </data>
+  <data name="IDS_LEADER">
+    <value>Линия-выноска: пример </value>
+  </data>
+  <data name="IDS_MARK1">
+    <value>п. 2</value>
+  </data>
+  <data name="IDS_MARK">
+    <value>Маркировка: пример </value>
+  </data>
+  <data name="IDS_ENDPOINT">
+    <value>Укажите точку конца ответвления</value>
+  </data>
+  <data name="IDS_TOLERANCE">
+    <value>Допуск формы: пример </value>
+  </data>
+  <data name="IDS_MENU1">
+    <value>Создание и редактирование шероховатости 3D</value>
+  </data>
+  <data name="IDS_MENU2">
+    <value>Создание и редактирование обозначения базы 3D</value>
+  </data>
+  <data name="IDS_MENU3">
+    <value>Создание и редактирование линии-выноски 3D</value>
+  </data>
+  <data name="IDS_MENU4">
+    <value>Создание и редактирование знака клеймения 3D</value>
+  </data>
+  <data name="IDS_MENU5">
+    <value>Создание и редактирование знака маркировки 3D</value>
+  </data>
+  <data name="IDS_MENU6">
+    <value>Создание и редактирование допуска формы 3D</value>
+  </data>
+  <data name="IDS_BRAND">
+    <value>Клеймение: пример </value>
+  </data>
+</root>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root xmlns="http://tempuri.org/SamplesDimension.xsd">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="ResMimeType">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="Version">
+    <value>1.0.0.0</value>
+  </resheader>
+  <resheader name="Reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="Writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="IDS_LIBNAME">
+    <value>Размеры 2D</value>
+  </data>
+  <data name="IDS_MENU1">
+    <value>Создать линейный размер</value>
+  </data>
+  <data name="IDS_MENU2">
+    <value>Навигация по коллекции линейных размеров</value>
+  </data>
+  <data name="IDS_MENU3">
+    <value>Редактирование линейного размера</value>
+  </data>
+  <data name="IDS_MENU4">
+    <value>Создание и редактирование радиального размера</value>
+  </data>
+  <data name="IDS_MENU5">
+    <value>Создание и редактирование диаметрального размера</value>
+  </data>
+  <data name="IDS_MENU6">
+    <value>Создание и редактирование углового размера</value>
+  </data>
+  <data name="IDS_MENU7">
+    <value>Создание и редактирование размера дуги окружности</value>
+  </data>
+  <data name="IDS_MENU8">
+    <value>Создание и редактирование линейного размера с обрывом</value>
+  </data>
+  <data name="IDS_MENU9">
+    <value>Создание и редактирование радиального размера с изломом</value>
+  </data>
+  <data name="IDS_MENU10">
+    <value>Создание и редактирование углового размера с обрывом</value>
+  </data>
+  <data name="IDS_MENU11">
+    <value>Создание и редактирование размера высоты</value>
+  </data>
+  <data name="IDS_COORDS">
+    <value>Координаты точек привязки отрезка: X1 = {0:.##}, Y1 = {1:.##}, X2 = {2:.##}, Y2 = {3:.##}</value>
+  </data>
+  <data name="IDS_DIM">
+    <value>Размер: </value>
+  </data>
+  <data name="IDS_COMMAND1">
+    <value>Укажите линейный размер</value>
+  </data>
+  <data name="IDS_NOTDIM">
+    <value>Это не линейный размер!</value>
+  </data>
+  <data name="IDS_COMMAND2">
+    <value>Укажите базовый объект - окружность</value>
+  </data>
+  <data name="IDS_NOOBJ">
+    <value>Базовый объект не задан</value>
+  </data>
+  <data name="IDS_NOTCREATE1">
+    <value>Невозможно создать радиальный размер для данного объекта</value>
+  </data>
+  <data name="IDS_UNIT">
+    <value> мм</value>
+  </data>
+  <data name="IDS_EDIT">
+    <value>Редактировать размер?</value>
+  </data>
+  <data name="IDS_NOTCREATE2">
+    <value>Невозможно создать диаметральный размер для данного объекта</value>
+  </data>
+  <data name="IDS_COMMAND3">
+    <value>Укажите первый базовый объект</value>
+  </data>
+  <data name="IDS_COMMAND4">
+    <value>Укажите второй базовый объект</value>
+  </data>
+  <data name="IDS_NOOBJS">
+    <value>Базовые объекты не заданы</value>
+  </data>
+  <data name="IDS_NOTCREATE3">
+    <value>Невозможно создать угловой размер для данного объекта</value>
+  </data>
+  <data name="IDS_COMMAND5">
+    <value>Укажите базовый объект - дугу</value>
+  </data>
+  <data name="IDS_COMMAND6">
+    <value>Укажите положение размерной линии</value>
+  </data>
+  <data name="IDS_NOTCREATE4">
+    <value>Невозможно создать размер дуги окружности для данного объекта</value>
+  </data>
+  <data name="IDS_COMMAND7">
+    <value>Укажите базовый объект - отрезок</value>
+  </data>
+  <data name="IDS_NOTCREATE5">
+    <value>Невозможно создать линейный размер с обрывом для данного объекта</value>
+  </data>
+  <data name="IDS_NOMINAL">
+    <value>10 мм</value>
+  </data>
+  <data name="IDS_COMMAND8">
+    <value>Укажите точку нулевого уровня</value>
+  </data>
+  <data name="IDS_COMMAND9">
+    <value>Укажите точку измеряемого уровня</value>
+  </data>
+  <data name="IDS_COMMAND10">
+    <value>Укажите положение размерной надписи</value>
+  </data>
+</root>

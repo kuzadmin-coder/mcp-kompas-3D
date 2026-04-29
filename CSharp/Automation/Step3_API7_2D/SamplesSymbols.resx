@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="ResMimeType">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="Version">
+    <value>1.0.0.0</value>
+  </resheader>
+  <resheader name="Reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="Writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="IDS_LIBNAME">
+    <value>Обозначения 2D</value>
+  </data>
+  <data name="IDS_EDIT">
+    <value>Объект создан. Изменить?</value>
+  </data>
+  <data name="IDS_MARK">
+    <value>п.1</value>
+  </data>
+  <data name="IDS_MARK2">
+    <value>п.2</value>
+  </data>
+  <data name="IDS_MARK3">
+    <value>п.3</value>
+  </data>
+  <data name="IDS_COMMAND1">
+    <value>Укажите базовый объект</value>
+  </data>
+  <data name="IDS_COMMAND2">
+    <value>Укажите точку привязки</value>
+  </data>
+  <data name="IDS_NOPOINT">
+    <value>Не задана точка привязки</value>
+  </data>
+  <data name="IDS_NOOBJ">
+    <value>Не задан базовый объект</value>
+  </data>
+  <data name="IDS_LEADER">
+    <value>Простая линия выноски</value>
+  </data>
+  <data name="IDS_POINT">
+    <value>Точка привязки: </value>
+  </data>
+  <data name="IDS_ARROUND">
+    <value>Признак обработки по контуру: </value>
+  </data>
+  <data name="IDS_ON">
+    <value>включен</value>
+  </data>
+  <data name="IDS_OFF">
+    <value>отключен</value>
+  </data>
+  <data name="IDS_BRANCHBEGIN">
+    <value>Начало ответвления: </value>
+  </data>
+  <data name="IDS_BEGINSHELF">
+    <value>от начала полки</value>
+  </data>
+  <data name="IDS_ENDSHELF">
+    <value>от конца полки</value>
+  </data>
+  <data name="IDS_PARALLEL">
+    <value>Признак параллельности ответвлений: </value>
+  </data>
+  <data name="IDS_MARKLEADER">
+    <value>Знак маркировки</value>
+  </data>
+  <data name="IDS_BRANCHCOUNT">
+    <value>Количество ответвлений: {0}</value>
+  </data>
+  <data name="IDS_BRANDLEADER">
+    <value>Знак клеймения</value>
+  </data>
+  <data name="IDS_CHANLEADER">
+    <value>Знак изменения</value>
+  </data>
+  <data name="IDS_ROUGH">
+    <value>Обозначение шероховатости</value>
+  </data>
+  <data name="IDS_BASE">
+    <value>Обозначение базы</value>
+  </data>
+  <data name="IDS_CUTLINE">
+    <value>Линия разреза/сечения</value>
+  </data>
+  <data name="IDS_VIEWPOINTER">
+    <value>Стрелка направления взгляда</value>
+  </data>
+  <data name="IDS_TOLERANCE">
+    <value>Допуск формы</value>
+  </data>
+  <data name="IDS_COORDS">
+    <value>X0 = {0:.##}, Y0 = {1:.##}</value>
+  </data>
+</root>
